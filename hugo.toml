@@ -1,0 +1,4 @@
+baseURL = 'https://docs.d94.eu/'
+theme = 'hugo-theme-relearn'
+languageCode = 'de-DE'
+title = 'Anleitungen'

@@ -1,0 +1,21 @@
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+#custom exclusions
+.Identifier
+.DS-Store
+.githooks/hooks.log
+/themes/hugo-theme-relearn/exampleSite/public*
+*.xcf
+*.zip
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
