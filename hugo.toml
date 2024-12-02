@@ -1,4 +1,7 @@
-baseURL = 'https://docs.d94.eu/'
+baseURL = 'https://www.d94.eu/'
 theme = 'hugo-theme-relearn'
 languageCode = 'de-DE'
 title = 'Anleitungen'
+
+[params]
+  landingPageName = '<i class="fa-fw fas fa-home"></i> Anleitungen'
