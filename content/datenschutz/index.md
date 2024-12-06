@@ -1,7 +1,8 @@
 +++
-date = '2024-12-02T13:02:51+01:00'
+date = '2024-12-02'
 draft = true
 title = 'Datenschutzerklärung'
+headless = true
 +++
 Stand: 2. Dezember 2024
 

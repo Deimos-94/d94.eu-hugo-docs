@@ -2,6 +2,7 @@
 date = '2024-12-02T13:03:00+01:00'
 draft = true
 title = 'Impressum'
+headless = true
 +++
 Angaben gemäß § 5 DDG
 
@@ -9,7 +10,7 @@ Max Muster
 Musterweg
 12345 Musterstadt
 
-**Vertreten durch**:  
+**Vertreten durch**:
 
 Max Muster
 
@@ -26,11 +27,15 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz:
 Musterustid.
 
 **Aufsichtsbehörde**:
+
 Musteraufsicht Musterstadt
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**:
+
 Max Muster
+
 Musterweg
+
 12345 Musterstadt
 
 ### Haftungsausschluss – Haftung für Links

@@ -2,7 +2,7 @@
 date = 2024-12-02
 draft = true
 tags = ['Diagramm', 'LF4']
-title = "Anwendungsfalldiagramm"
+title = "Anwendungsfalldiagramm / Use Case Diagramm"
 +++
 ## UML – Anwendungsfalldiagramm / Use Case Diagramm
 

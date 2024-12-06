@@ -1,7 +1,14 @@
-baseURL = 'https://www.d94.eu/'
+baseURL = 'https://www.d94.eu/anleitungen/'
 theme = 'hugo-theme-relearn'
 languageCode = 'de-DE'
 title = 'Anleitungen'
 
 [params]
   landingPageName = '<i class="fa-fw fas fa-home"></i> Anleitungen'
+  collapsibleMenu = true
+  timeZone = 'Europe/Berlin'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
